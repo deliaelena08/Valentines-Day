@@ -1,2 +1,2 @@
 # Valentines-Day
-This application was made for my valentine's partner to choose whether or not he wants to be my partner.
+A playful JavaFX application created as a Valentine's Day surprise. The app asks the user a question, 'Will you be my Valentine?', with two buttons: 'Yes' and 'No'. When the 'No' button is clicked, it moves away from the screen, making it impossible to click. If 'Yes' is selected, a new window opens with cheerful animations to celebrate the moment. This project showcases interactive UI elements and basic animations in JavaFX.
